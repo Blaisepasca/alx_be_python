@@ -1,1 +1,9 @@
 Hello git and github!
+name = input("enter name")
+color = input("Enter color)
+animal = input("enter  animal")
+place =input("enter the place")
+
+condition statement
+
+if color.lower() = "red":
